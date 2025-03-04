@@ -1,4 +1,4 @@
-lass Solution:
+class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         k = 1
 
